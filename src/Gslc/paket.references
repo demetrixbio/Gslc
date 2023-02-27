@@ -1,7 +1,7 @@
 FSharp.Core
-GslCore
-Amyris.Bio
-FParsec
+Dmx.GslCore
+Dmx.Amyris.Bio
+#FParsec
 FSharp.Data
 FsLexYacc
 FsLexYacc.Runtime

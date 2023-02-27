@@ -1,3 +1,5 @@
+#refgenome S288C
+
 // simple promoter / gene at locus with marker,
 // split into two stitches
 uHO; pTDH3 ; mERG10 ; ### ; dHO 

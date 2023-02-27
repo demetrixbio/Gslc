@@ -3,15 +3,17 @@ namespace System
 open System.Reflection
 
 [<assembly: AssemblyTitleAttribute("Gslc")>]
-[<assembly: AssemblyProductAttribute("Gslc")>]
-[<assembly: AssemblyDescriptionAttribute("GSL compiler command line application")>]
+[<assembly: AssemblyProductAttribute("Dmx.GslCore")>]
+[<assembly: AssemblyDescriptionAttribute("Core library and basic plug-ins for the GSL compiler. (Demetrix production version)")>]
 [<assembly: AssemblyVersionAttribute("0.1.1")>]
+[<assembly: AssemblyInformationalVersionAttribute("955ad0")>]
 [<assembly: AssemblyFileVersionAttribute("0.1.1")>]
 do ()
 
 module internal AssemblyVersionInformation =
     let [<Literal>] AssemblyTitle = "Gslc"
-    let [<Literal>] AssemblyProduct = "Gslc"
-    let [<Literal>] AssemblyDescription = "GSL compiler command line application"
+    let [<Literal>] AssemblyProduct = "Dmx.GslCore"
+    let [<Literal>] AssemblyDescription = "Core library and basic plug-ins for the GSL compiler. (Demetrix production version)"
     let [<Literal>] AssemblyVersion = "0.1.1"
+    let [<Literal>] AssemblyInformationalVersion = "955ad0"
     let [<Literal>] AssemblyFileVersion = "0.1.1"
