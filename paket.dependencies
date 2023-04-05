@@ -3,7 +3,7 @@ source https://api.nuget.org/v3/index.json
 framework: >= net7
 storage none
 
-nuget Dmx.GslCore >= 0.5
+nuget Dmx.GslCore >= 0.5.1
 nuget FSharp.Core ~> 7 
 
 group Build
